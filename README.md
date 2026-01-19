@@ -69,24 +69,24 @@
 
 ### 本リリース
 
-・メール通知機能
-・操作ログ記録
-・CSVインポート / エクスポート
-・複数店舗対応
+・メール通知機能  
+・操作ログ記録  
+・CSVインポート / エクスポート  
+・複数店舗対応  
 
 ## 使用する技術スタック
 ### バックエンド
 
-・Ruby on Rails（APIモード）
-・Devise（JWT認証）
-・ActiveRecord
-・RSpec（モデルテスト）
+・Ruby on Rails（APIモード）  
+・Devise（JWT認証）  
+・ActiveRecord  
+・RSpec（モデルテスト）  
 
 ### フロントエンド
 
-・React
-・axios
-・Context API
+・React  
+・axios  
+・Context API  
 
 ### データベース
 
